@@ -35,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+.list{
+  color: red;
+}
+.btn{
+  color: red;
+  border-radius: 5px;
 }
